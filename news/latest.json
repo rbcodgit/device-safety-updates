@@ -1,0 +1,32 @@
+{
+  "id": "2026-06-12",
+  "published_at": "2026-06-12T11:40:00Z",
+  "title": "Public safety-source status as of June 12, 2026",
+  "summary": "Most public safety data sources currently available in the app showed no major platform change that should materially reduce freshness or availability. The clearest public update came from Australia's TGA, which posted a notice on June 3, 2026 about a historical field issue in older adverse-event records, and TGA is also showing a current site notice about dataset and search issues. Brazil's ANVISA alerts page was less stable in the latest check and may have uneven availability until the site settles.",
+  "updates": [
+    "Australia (TGA): On June 3, 2026, TGA said an outcome field may appear blank in older adverse-event records published before October 2019.",
+    "Australia (TGA): As of June 12, 2026, TGA was also displaying a public notice that some datasets and search features are experiencing issues.",
+    "Brazil (ANVISA): The public alerts page was not consistently reachable in the latest check on June 12, 2026, so availability may be uneven for now.",
+    "United States (FDA): FDA published June 2026 eMDR system work scheduled for June 29, 2026; no public change to openFDA device access was announced."
+  ],
+  "no_major_changes": "No meaningful setup or access change was identified for FDA Safety Communications, BfArM, Swissmedic, MHRA, Health Canada, AEMPS, ANSM, PMDA, or the current English-language NMPA coverage.",
+  "sources_checked": [
+    "fda_maude",
+    "fda_recall",
+    "fda_cdrh_recall",
+    "fda_safety_communications",
+    "bfarm",
+    "swissmedic",
+    "mhra",
+    "tga_daen",
+    "tga_drac",
+    "canada_dhpr",
+    "canada_recall",
+    "anvisa_alerts",
+    "anvisa_recall",
+    "pmda",
+    "aemps",
+    "ansm",
+    "nmpa"
+  ]
+}
