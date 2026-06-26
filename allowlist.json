@@ -1,9 +1,9 @@
 {
   "schema": 1,
-  "generated_at": "2026-06-26T16:22:56Z",
+  "generated_at": "2026-06-26T16:24:22Z",
   "identity_source": "whoami /upn",
   "hash_algorithm": "sha256(lowercase_trimmed_upn)",
   "allowed_user_hashes": [
-    "4521147e06e46b50903cbc36f10ce0bb5edb44de497fb02978fa6a43fc1e7507"
+    "a464919320d315d3bc85e022d6e4227ccf5701ab2650d9a50f8c0f48a502d0c1"
   ]
 }
