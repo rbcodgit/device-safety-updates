@@ -1,10 +1,10 @@
 {
   "id": "2026-09-11",
-  "published_at": "2026-09-11T13:26:58Z",
+  "published_at": "2026-09-11T14:50:49Z",
   "title": "Public safety-source status as of September 11, 2026",
-  "summary": "Most public safety databases available in the app showed no major platform change that should affect data freshness or availability. One routine check of Brazil\u2019s public safety-alert search was blocked on September 11, 2026; this is being verified and may temporarily delay updates from that source.",
+  "summary": "Most public safety databases available in the app showed no major platform change that should affect data freshness or availability. Brazil\u2019s public safety-alert search was successfully verified on September 11, 2026.",
   "updates": [
-    "Brazil (ANVISA): The public safety-alert search could not be reached in the September 11, 2026 routine check. We are verifying whether this is temporary; recent alert updates may be delayed until access is confirmed.",
+    "Brazil (ANVISA): The public safety-alert search, record details, and a supporting document were successfully verified on September 11, 2026.",
     "Switzerland (Swissmedic): A registration transition continues through December 31, 2026, with no observed change to the public safety-notice listings."
   ],
   "no_major_changes": "No meaningful setup or access change was identified for FDA MAUDE, FDA recalls and safety communications, BfArM, MHRA, TGA, Health Canada, AEMPS, ANSM, PMDA, or the current English-language NMPA coverage.",
