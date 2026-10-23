@@ -1,13 +1,12 @@
 {
-  "id": "2026-10-09",
-  "published_at": "2026-10-09T09:08:27Z",
-  "title": "Safety database status \u2014 9 October 2026",
-  "summary": "No major public-source changes were found that affect the freshness or availability of the safety information currently available in Device Safety Intelligence. Routine source checks completed successfully across the available databases.",
+  "id": "2026-10-23",
+  "published_at": "2026-10-23T09:04:27Z",
+  "title": "FDA MAUDE data platform change being monitored",
+  "summary": "On 23 October 2026, the main public safety databases remain available with no confirmed disruption to searches. FDA has announced that MAUDE adverse-event data will move into its Adverse Event Monitoring System during 2026; the existing MAUDE public data service remains available today, and we are monitoring FDA notices for any change that could affect data freshness or access.",
   "updates": [
-    "FDA announced ongoing electronic reporting code updates for submitters, with an implementation deadline of 31 March 2027; this does not change the public safety-data searches available in the app.",
-    "Swissmedic released swissdamed account and registration updates on 1 October 2026. The public field-safety publication search continues to operate normally."
+    "FDA: MAUDE data is planned to become available in AEMS during 2026. No date or public search-service change has been announced. [FDA MDR data files](https://www.fda.gov/medical-devices/medical-device-reporting-mdr-how-report-medical-device-problems/mdr-data-files)"
   ],
-  "no_major_changes": "FDA MAUDE, FDA recalls, FDA Safety Communications, BfArM, MHRA, TGA, Health Canada, PMDA, AEMPS, ANSM, NMPA English, and Swissmedic had no meaningful public setup or access change affecting normal use.",
+  "no_major_changes": "FDA Recall and Safety Communications, BfArM, Swissmedic, MHRA, TGA, Health Canada, PMDA, AEMPS, ANSM, and NMPA English showed no meaningful public-source setup or access changes.",
   "sources_checked": [
     "fda_maude",
     "fda_recall",
