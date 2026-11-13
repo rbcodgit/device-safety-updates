@@ -1,12 +1,13 @@
 {
-  "id": "2026-10-23",
-  "published_at": "2026-10-23T09:04:27Z",
-  "title": "FDA MAUDE data platform change being monitored",
-  "summary": "On 23 October 2026, the main public safety databases remain available with no confirmed disruption to searches. FDA has announced that MAUDE adverse-event data will move into its Adverse Event Monitoring System during 2026; the existing MAUDE public data service remains available today, and we are monitoring FDA notices for any change that could affect data freshness or access.",
+  "id": "2026-11-13",
+  "published_at": "2026-11-13T09:09:15Z",
+  "title": "Safety database status: no ongoing access changes",
+  "summary": "As of 13 November 2026, the available safety databases were checked and remain accessible. No confirmed source change is expected to reduce data freshness or search availability.",
   "updates": [
-    "FDA: MAUDE data is planned to become available in AEMS during 2026. No date or public search-service change has been announced. [FDA MDR data files](https://www.fda.gov/medical-devices/medical-device-reporting-mdr-how-report-medical-device-problems/mdr-data-files)"
+    "**FDA MAUDE:** FDA continues its planned 2026 move of medical-device adverse-event data into the Adverse Event Monitoring System. The existing public MAUDE search route remains available; no change to searching is currently needed.",
+    "**TGA DAEN:** Planned maintenance on 8 November 2026 has passed. The database is responding normally in the latest check."
   ],
-  "no_major_changes": "FDA Recall and Safety Communications, BfArM, Swissmedic, MHRA, TGA, Health Canada, PMDA, AEMPS, ANSM, and NMPA English showed no meaningful public-source setup or access changes.",
+  "no_major_changes": "FDA recalls and safety communications, BfArM, Swissmedic, MHRA, TGA DRAC, Health Canada incidents and recalls, PMDA, AEMPS, ANSM, and NMPA English showed no meaningful setup or access changes.",
   "sources_checked": [
     "fda_maude",
     "fda_recall",
